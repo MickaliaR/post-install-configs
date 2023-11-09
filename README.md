@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Agents and Users
 - Configure SLA based on company needs
 - Configure Help Topics for company needs
-- Perform ticketing tasks as both Agent and User
+
 
 <h2>Configuration Steps</h2>
 
@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring the "Supreme Admin" role in osticket from the Admin Panel. All agents placed under the "Supreme Admin" role will now be granted permission to have access to any department associated with the "Supreme Admin" role. 
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring the "Support" Department in osTicket from the Admin panel. Different agents can now be assigned to the various different departments within the system so tickets can be resolved accordingly. 
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring "Level II spport" as another team within the sysytem. This will allow different agents to be organized within the different teams to resolve speceific tickets that are placed in different levels in the system. 
 </p>
 <br />
