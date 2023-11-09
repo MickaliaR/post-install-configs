@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Roles, Departments and Teams
 - Configure Agents and Users
 - Configure SLA based on company needs
-- Configure Help Topcs for company needs
+- Configure Help Topics for company needs
 - Perform ticketing tasks as both Agent and User
 
 <h2>Configuration Steps</h2>
