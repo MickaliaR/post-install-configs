@@ -28,11 +28,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-![roles](https://github.com/MickaliaR/post-install-configs/assets/150267558/b7c7ec78-d82c-4bb5-8e36-9f93dc3ac95a)
-/>
+<p> 
+ <img src=
 
- />
+
 </p>
 <p>
 Configuring the "Supreme Admin" role in osticket from the Admin Panel. All agents placed under the "Supreme Admin" role will now be granted permission to have access to any department associated with the "Supreme Admin" role. 
