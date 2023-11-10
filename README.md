@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="![roles](https://github.com/MickaliaR/post-install-configs/assets/150267558/d3f9cdb1-0328-4df8-a9ba-4ac191f3f085)
+"
 />
 
  />
