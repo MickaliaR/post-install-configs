@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration of the help desk ticketing system osTicket.<br />
 
 
 
@@ -36,8 +36,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 - Configuring the "Supreme Admin" role in osticket from the Admin Panel. All agents placed under the "Supreme Admin" role will now be granted permission to have access to any department associated with the "Supreme Admin" role. 
 </p>
-<br />
+<br /> 
 
+<p> 
 <img src="https://i.imgur.com/DElnV6X.png"/> 
 </p> 
 <img src="https://i.imgur.com/sLfglbG.png"/>
@@ -72,8 +73,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p> 
 <p> 
 - Configure a "User" as "Kathy Stewart" within the Admin Panel. As a user, "Kathy Stewart" can now create tickets within the help desk user portal. 
-</p> 
-<br /> 
+
 
 <p> 
 <img src="https://i.imgur.com/A0hPTsU.png"/> 
