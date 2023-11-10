@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p> 
- <img src=
+![image](https://github.com/MickaliaR/post-install-configs/assets/150267558/f5173f42-2ba3-49f2-9811-4f47dae22be2)
 
 
 </p>
