@@ -29,27 +29,67 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p> 
-![image](https://github.com/MickaliaR/post-install-configs/assets/150267558/f5173f42-2ba3-49f2-9811-4f47dae22be2)
+<img src="https://i.imgur.com/dsXO3fk.png"/>
 
 
 </p>
 <p>
-Configuring the "Supreme Admin" role in osticket from the Admin Panel. All agents placed under the "Supreme Admin" role will now be granted permission to have access to any department associated with the "Supreme Admin" role. 
+- Configuring the "Supreme Admin" role in osticket from the Admin Panel. All agents placed under the "Supreme Admin" role will now be granted permission to have access to any department associated with the "Supreme Admin" role. 
+</p>
+<br />
+
+<img src="https://i.imgur.com/DElnV6X.png"/> 
+</p> 
+<img src="https://i.imgur.com/sLfglbG.png"/>
+</p> 
+<p>
+- Configuring the "Support" Department in osTicket from the Admin panel. Different agents can now be assigned to the various different departments within the system so tickets can be resolved accordingly. 
 </p>
 <br />
 
 <p>
-![roles](https://github.com/MickaliaR/post-install-configs/assets/150267558/69d9d16f-6f6a-4419-9a6d-2ef7848725d3)https://github.com/MickaliaR/post-install-configs/issues/new
+<img src="https://i.imgur.com/S5VBRv7.png"/>
 </p>
 <p>
-Configuring the "Support" Department in osTicket from the Admin panel. Different agents can now be assigned to the various different departments within the system so tickets can be resolved accordingly. 
+- Configuring "Level II spport" as another "Team" within the sysytem. This will allow different agents to be organized within the different teams to resolve speceific tickets that are placed in different levels in the system. 
 </p>
-<br />
+<br /> 
 
+<p> 
+<img src="https://i.imgur.com/iS8UEbC.png"/> 
+</p> 
+<img src="https://i.imgur.com/42owwvP.png"/> 
+</p> 
+<p> 
+- Configure an "Agent" as "Jane Sinclair" within the Admin Panel. "Jane Sinclair" was then assigned to "System Administrator" Department to be given primary role of that department. 
+</p> 
+<br /> 
+
+<p> 
+<img src="https://i.imgur.com/OeQBJwl.png"/> 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Configuring "Level II spport" as another team within the sysytem. This will allow different agents to be organized within the different teams to resolve speceific tickets that are placed in different levels in the system. 
-</p>
-<br />
+<img src="https://i.imgur.com/7yalCMp.png"/> 
+</p> 
+<p> 
+- Configure a "User" as "Kathy Stewart" within the Admin Panel. As a user, "Kathy Stewart" can now create tickets within the help desk user portal. 
+</p> 
+<br /> 
+
+<p> 
+<img src="https://i.imgur.com/A0hPTsU.png"/> 
+<p> 
+<img src="https://i.imgur.com/uiDb1BW.png"/> 
+</p> 
+<p> 
+- Configure "SLA (Service Level Agreement)" within the Admin Panel based on company requirements. Three SLA'S were added for the level of severity of each ticket in the osTicket System. The SLA above ranges from SEV A-SEV C (SEV A being highly critical). Each SLA was also given different grace periods based on severity in which they must be resolved by. The SLA can now be added to each ticket that comes in by the Administrator. 
+</p> 
+<br /> 
+
+<p> 
+<img src="https://i.imgur.com/2h5HMK9.png"/> 
+<p> 
+<img src="https://i.imgur.com/ryjBL0E.png"/> 
+</p> 
+<p> 
+- Configure different "Help Topics" within the Admin Panel and assigning the different departments to it. The various "Help Topics" will be used to determine what department and Agent tickets will be routed to. "Help Topics" will also list SLA and any other priority of each ticket.
+
