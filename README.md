@@ -40,7 +40,7 @@ Configuring the "Supreme Admin" role in osticket from the Admin Panel. All agent
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![roles](https://github.com/MickaliaR/post-install-configs/assets/150267558/69d9d16f-6f6a-4419-9a6d-2ef7848725d3)https://github.com/MickaliaR/post-install-configs/issues/new
 </p>
 <p>
 Configuring the "Support" Department in osTicket from the Admin panel. Different agents can now be assigned to the various different departments within the system so tickets can be resolved accordingly. 
