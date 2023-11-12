@@ -62,7 +62,7 @@ This tutorial outlines the post-install configuration of the help desk ticketing
 <img src="https://i.imgur.com/42owwvP.png"/> 
 </p> 
 <p> 
-- Configure an "Agent" as "Jane Sinclair" within the Admin Panel. "Jane Sinclair" was then assigned to "System Administrator" Department to be given primary role of that department. 
+- Create an "Agent" as "Jane Sinclair" within the Admin Panel. "Jane Sinclair" was then assigned to "System Administrator" Department to be given primary role of that department. 
 </p> 
 <br /> 
 
@@ -72,7 +72,7 @@ This tutorial outlines the post-install configuration of the help desk ticketing
 <img src="https://i.imgur.com/7yalCMp.png"/> 
 </p> 
 <p> 
-- Configure a "User" as "Kathy Stewart" within the Admin Panel. As a user, "Kathy Stewart" can now create tickets within the help desk user portal. 
+- Create a "User" as "Kathy Stewart" within the Admin Panel. As a user, "Kathy Stewart" can now create tickets within the help desk user portal. 
 
 
 <p> 
